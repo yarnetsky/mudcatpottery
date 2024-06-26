@@ -8,9 +8,9 @@
   xmlns:cc="http://web.resource.org/cc/"
   xmlns="http://purl.org/rss/1.0/">
 
-<channel rdf:about="/">
+<channel rdf:about="http://www.mudcatpottery.com/">
 <title>Mudcat Pottery</title>
-<link>/</link>
+<link>http://www.mudcatpottery.com/</link>
 <description>Mudcat Pottery is functional pottery, ceramic sculpture and tiles inspired by the beautiful Ohio River Valley. Made in Madison, Indiana.</description>
 <dc:language>en-us</dc:language>
 <dc:creator></dc:creator>
@@ -19,69 +19,69 @@
 
 
 <items>
-<rdf:Seq><rdf:li rdf:resource="/archives/cat_visit_mudcat.html#000553" />
-<rdf:li rdf:resource="/archives/cat_about_mudcat.html#000512" />
-<rdf:li rdf:resource="/archives/cat_visit_mudcat.html#000510" />
-<rdf:li rdf:resource="/archives/cat_about_mudcat.html#000511" />
-<rdf:li rdf:resource="/archives/cat_services.html#000552" />
-<rdf:li rdf:resource="/archives/cat_find_mudcat.html#000555" />
-<rdf:li rdf:resource="/archives/cat_how_its_made.html#000554" />
+<rdf:Seq><rdf:li rdf:resource="http://www.mudcatpottery.com/archives/cat_visit_mudcat.html#000553" />
+<rdf:li rdf:resource="http://www.mudcatpottery.com/archives/cat_about_mudcat.html#000512" />
+<rdf:li rdf:resource="http://www.mudcatpottery.com/archives/cat_visit_mudcat.html#000510" />
+<rdf:li rdf:resource="http://www.mudcatpottery.com/archives/cat_about_mudcat.html#000511" />
+<rdf:li rdf:resource="http://www.mudcatpottery.com/archives/cat_services.html#000552" />
+<rdf:li rdf:resource="http://www.mudcatpottery.com/archives/cat_find_mudcat.html#000555" />
+<rdf:li rdf:resource="http://www.mudcatpottery.com/archives/cat_how_its_made.html#000554" />
 </rdf:Seq>
 </items>
 
 </channel>
 
-<item rdf:about="/archives/cat_visit_mudcat.html#000553">
+<item rdf:about="http://www.mudcatpottery.com/archives/cat_visit_mudcat.html#000553">
 <title>Find us at the Chautauqua</title>
-<link>/archives/cat_visit_mudcat.html#000553</link>
+<link>http://www.mudcatpottery.com/archives/cat_visit_mudcat.html#000553</link>
 <description>Saturday and Sunday September 24 &amp; 25 Darlene has new pots coming out of the kiln daily in preparation for this weekend&apos;s Madison Chautauqua. Our booth is #614 located in front of the Lanier Mansion on the riverfront&apos;s Vaughn Drive....</description>
 <dc:subject>Visit Mudcat</dc:subject>
 <dc:creator>egyarnetsky</dc:creator>
 <dc:date>2005-03-14T22:53:49-05:00</dc:date>
 </item>
-<item rdf:about="/archives/cat_about_mudcat.html#000512">
+<item rdf:about="http://www.mudcatpottery.com/archives/cat_about_mudcat.html#000512">
 <title>About the pottery</title>
-<link>/archives/cat_about_mudcat.html#000512</link>
+<link>http://www.mudcatpottery.com/archives/cat_about_mudcat.html#000512</link>
 <description>Mudcat Pottery is a one-person studio founded in Madison in 1994 by Darlene Yarnetsky. She earned a Bachelor of Fine Arts in ceramics, painting and drawing from Bowling Green State University in Ohio....</description>
 <dc:subject>About Mudcat</dc:subject>
 <dc:creator>egyarnetsky</dc:creator>
 <dc:date>2005-03-13T21:29:41-05:00</dc:date>
 </item>
-<item rdf:about="/archives/cat_visit_mudcat.html#000510">
+<item rdf:about="http://www.mudcatpottery.com/archives/cat_visit_mudcat.html#000510">
 <title>Visit the studio</title>
-<link>/archives/cat_visit_mudcat.html#000510</link>
+<link>http://www.mudcatpottery.com/archives/cat_visit_mudcat.html#000510</link>
 <description>Our studio is located just two blocks from where the riverboats dock on the Ohio River. The 160-year-old three-story commercial building has been a coffeehouse, a hotel, tenements and a feed store. We look forward to continuing its interesting history....</description>
 <dc:subject>Visit Mudcat</dc:subject>
 <dc:creator>egyarnetsky</dc:creator>
 <dc:date>2005-03-13T21:28:21-05:00</dc:date>
 </item>
-<item rdf:about="/archives/cat_about_mudcat.html#000511">
+<item rdf:about="http://www.mudcatpottery.com/archives/cat_about_mudcat.html#000511">
 <title>About the work</title>
-<link>/archives/cat_about_mudcat.html#000511</link>
+<link>http://www.mudcatpottery.com/archives/cat_about_mudcat.html#000511</link>
 <description>&quot;Using nature as a springboard for ideas, I create one of a kind sculptural vessels and wheel thrown pottery,&quot; Darlene says. &quot;I am greatly interested in texture and the natural properties of clay. I use a combination of original earthy...</description>
 <dc:subject>About Mudcat</dc:subject>
 <dc:creator>egyarnetsky</dc:creator>
 <dc:date>2005-03-10T21:29:04-05:00</dc:date>
 </item>
-<item rdf:about="/archives/cat_services.html#000552">
+<item rdf:about="http://www.mudcatpottery.com/archives/cat_services.html#000552">
 <title>Shipping pots</title>
-<link>/archives/cat_services.html#000552</link>
+<link>http://www.mudcatpottery.com/archives/cat_services.html#000552</link>
 <description>The trick to shipping pots in the mail is to double box them. Wrap the pot in bubble wrap and place in a box slightly larger than the wrapped pot. Fill in the dead spaces with styrofoam peanuts. Then suspend...</description>
 <dc:subject>Services</dc:subject>
 <dc:creator>egyarnetsky</dc:creator>
 <dc:date>2005-03-10T20:50:02-05:00</dc:date>
 </item>
-<item rdf:about="/archives/cat_find_mudcat.html#000555">
+<item rdf:about="http://www.mudcatpottery.com/archives/cat_find_mudcat.html#000555">
 <title>Galleries &amp; gift shops</title>
-<link>/archives/cat_find_mudcat.html#000555</link>
+<link>http://www.mudcatpottery.com/archives/cat_find_mudcat.html#000555</link>
 <description>Solar Flair Gallery: 213 Main St., Rising Sun, Indiana. (812) 438-2550. Picture This 2240 25th St., Columbus, Indiana (812) 372-6163. Thomas Family Winery 208 E. Second St., Madison, Indiana. (812) 273-3755. We welcome interest from galleries, gift shops and designers....</description>
 <dc:subject>Find Mudcat</dc:subject>
 <dc:creator>egyarnetsky</dc:creator>
 <dc:date>2005-03-10T20:48:47-05:00</dc:date>
 </item>
-<item rdf:about="/archives/cat_how_its_made.html#000554">
+<item rdf:about="http://www.mudcatpottery.com/archives/cat_how_its_made.html#000554">
 <title>The Madison tile</title>
-<link>/archives/cat_how_its_made.html#000554</link>
+<link>http://www.mudcatpottery.com/archives/cat_how_its_made.html#000554</link>
 <description>Obviously, the idea comes first. Our Madison tile came from a series of photos taken by Darlene of downtown Madison from atop the Kentucky bluffs. Darlene first sketched the the scene on the slab of clay. Slowly clay is added...</description>
 <dc:subject>How it&apos;s made</dc:subject>
 <dc:creator>egyarnetsky</dc:creator>

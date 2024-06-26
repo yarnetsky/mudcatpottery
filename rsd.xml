@@ -3,7 +3,7 @@
   <service>
     <engineName>Movable Type 2.661</engineName> 
     <engineLink>http://www.movabletype.org/</engineLink>
-    <homePageLink>/</homePageLink>
+    <homePageLink>http://www.mudcatpottery.com/</homePageLink>
     <apis>
       <api name="MetaWeblog" preferred="true" apiLink="http://www.ontheriversedge.com/movabletype/mt-xmlrpc.cgi" blogID="5" />
       <api name="Blogger" preferred="false" apiLink="http://www.ontheriversedge.com/movabletype/mt-xmlrpc.cgi" blogID="5" />
