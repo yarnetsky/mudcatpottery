@@ -1,0 +1,88 @@
+jQuery.noConflict();
+
+// Center images on page load - http://code.drewwilson.com/entry/imgcenter-jquery-plugin
+jQuery(window).load(function(){
+	// Hide elements on page load
+	jQuery("#content .entry-content .large-image p").fadeTo(0, 0);
+	jQuery(".blog .hentry .hoverbg").fadeTo(0, 0);
+	jQuery(".single .post-image-container .photo-credit").fadeTo(0, 0);
+	jQuery("#thumbNav").fadeTo(0, 0);
+	
+	jQuery(".blog .hentry .post-image-container img").hide().fadeIn(500);
+	jQuery(".single .hentry .post-image-container img").hide().fadeIn(500);
+	jQuery(".featured-post-image-container img").hide().fadeIn(500);
+	jQuery(".single #auto-slider").hide().fadeIn(500);
+
+	jQuery(".blog #content .entry-content").css({'margin-left' : '0'});
+   	jQuery(".blog #content .entry-date").css({'margin-left' : '0'});
+	jQuery(".blog #content .entry-meta").css({'margin-left' : '0'});
+	jQuery(".blog #content .entry-title").css({'margin-left' : '0'});
+
+	// Hover animations for Home Pages
+	jQuery(".blog .entry-hover-on").hide();
+	jQuery(".blog .entry-hover-off").show();
+	jQuery(".blog .entry-hover-none").hide();
+	jQuery(".blog .entry-content").hide();
+	
+	// Center Images
+	jQuery(".blog #content .post .post-image-container img, .blog #featured-slider-container ul li img").imgCenter({
+		parentSteps: 1,
+		scaleToFit: false
+	}); 
+
+	jQuery("#gallery-slider-container ul li img").imgCenter({
+		parentSteps: 0,
+		scaleToFit: false
+	}); 
+});
+
+jQuery(document).ready(function(){
+
+	jQuery(".blog .hentry").hover(function(){
+		jQuery(this).children(".entry-hover-on").stop(true).fadeTo("fast", 1.0);
+		jQuery(this).children(".entry-hover-off").stop(true).fadeTo("fast", 0);
+		jQuery(this).children(".entry-hover-none").stop(true).hide();
+		jQuery(this).children(".entry-content").stop(true).fadeTo("fast", 1.0).css({'display' : 'block'});
+		jQuery(this).children(".post-image-container").stop(true).fadeTo("fast", 0.25);
+	}, function(){
+		jQuery(this).children(".entry-hover-on").stop(true).fadeTo("fast", 0);
+		jQuery(this).children(".entry-hover-off").stop(true).fadeTo("fast", 1.0);
+		jQuery(this).children(".entry-hover-none").stop(true).hide();
+		jQuery(this).children(".entry-content").stop(true).fadeTo("fast", 0).css({'display' : 'none'});
+		jQuery(this).children(".post-image-container").stop(true).fadeTo("fast", 1.0);
+	});
+
+	// Hover animations for Single Pages
+	jQuery(".single .post-image-container").hover(function(){
+		jQuery(this).children(".photo-credit").stop(true).fadeTo("fast", 1.0);
+	}, function(){
+		jQuery(this).children(".photo-credit").stop(true).fadeTo("fast", 0);
+	});
+	
+	// Hover animations for Slider Controls
+	jQuery(".anythingSlider").hover(function(){
+		jQuery(this).children("#thumbNav").stop(true).fadeTo("fast", 0.75);
+	}, function(){
+		jQuery(this).children("#thumbNav").stop(true).fadeTo("fast", 0);
+	});
+		
+	// Hover animations for Large Image Shortcodes
+	jQuery("#content .entry-content .large-image").hover(function(){
+		jQuery(this).children("p").stop(true).fadeTo("fast", 1.0);
+	}, function(){
+		jQuery(this).children("p").stop(true).fadeTo("fast", 0);
+	});
+
+	// Setup HashGrid Plugin: http://hashgrid.com
+	var grid = new hashgrid({
+		id: 'afgrid',            // id for the grid container
+		modifierKey: 'alt+shift',      // optional 'ctrl', 'alt' or 'shift'
+		showGridKey: 'g',        // key to show the grid
+		holdGridKey: 'h',    // key to hold the grid in place
+		foregroundKey: 'f',      // key to toggle foreground/background
+		jumpGridsKey: 'd',       // key to cycle through the grid classes
+		numberOfGrids: 1,        // number of grid classes used
+		classPrefix: 'afgrid-',    // prefix for the grid classes
+		cookiePrefix: 'autofocus-grid'   // prefix for the cookie name
+	}); 
+});

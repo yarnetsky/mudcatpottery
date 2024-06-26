@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:cc="http://web.resource.org/cc/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="http://mudcatpottery.com/kiln/">
+<title>Mudcat Pottery hot from the kiln</title>
+<link>http://mudcatpottery.com/kiln/</link>
+<description>Pots hot from the kiln!</description>
+<dc:language>en-us</dc:language>
+<dc:creator></dc:creator>
+<dc:date>2004-05-08T13:50:50-05:00</dc:date>
+<admin:generatorAgent rdf:resource="http://www.movabletype.org/?v=2.661" />
+
+
+<items>
+<rdf:Seq><rdf:li rdf:resource="http://mudcatpottery.com/kiln/archives/000347.html" />
+<rdf:li rdf:resource="http://mudcatpottery.com/kiln/archives/000322.html" />
+<rdf:li rdf:resource="http://mudcatpottery.com/kiln/archives/000320.html" />
+<rdf:li rdf:resource="http://mudcatpottery.com/kiln/archives/000314.html" />
+<rdf:li rdf:resource="http://mudcatpottery.com/kiln/archives/000313.html" />
+<rdf:li rdf:resource="http://mudcatpottery.com/kiln/archives/000300.html" />
+<rdf:li rdf:resource="http://mudcatpottery.com/kiln/archives/000299.html" />
+<rdf:li rdf:resource="http://mudcatpottery.com/kiln/archives/000298.html" />
+<rdf:li rdf:resource="http://mudcatpottery.com/kiln/archives/000297.html" />
+<rdf:li rdf:resource="http://mudcatpottery.com/kiln/archives/000296.html" />
+<rdf:li rdf:resource="http://mudcatpottery.com/kiln/archives/000309.html" />
+<rdf:li rdf:resource="http://mudcatpottery.com/kiln/archives/000308.html" />
+<rdf:li rdf:resource="http://mudcatpottery.com/kiln/archives/000307.html" />
+<rdf:li rdf:resource="http://mudcatpottery.com/kiln/archives/000302.html" />
+<rdf:li rdf:resource="http://mudcatpottery.com/kiln/archives/000301.html" />
+</rdf:Seq>
+</items>
+
+</channel>
+
+<item rdf:about="http://mudcatpottery.com/kiln/archives/000347.html">
+<title>Pitcher detail</title>
+<link>http://mudcatpottery.com/kiln/archives/000347.html</link>
+<description>Just a fun photo I took at an arts festival. I thought &quot;Hey, even bugs like our pots!&quot;...</description>
+<dc:subject>pitchers</dc:subject>
+<dc:creator>egyarnetsky</dc:creator>
+<dc:date>2004-05-08T13:50:50-05:00</dc:date>
+</item>
+<item rdf:about="http://mudcatpottery.com/kiln/archives/000322.html">
+<title>Carved Jar 2</title>
+<link>http://mudcatpottery.com/kiln/archives/000322.html</link>
+<description>$65 * 8&quot; tall....</description>
+<dc:subject>Hand-built boxes</dc:subject>
+<dc:creator>egyarnetsky</dc:creator>
+<dc:date>2004-05-01T19:14:41-05:00</dc:date>
+</item>
+<item rdf:about="http://mudcatpottery.com/kiln/archives/000320.html">
+<title>mini jar 2</title>
+<link>http://mudcatpottery.com/kiln/archives/000320.html</link>
+<description>sold * 5&quot; tall. This is one of Darlene&apos;s favorites to come out the kiln. The details in the glazes are beautiful....</description>
+<dc:subject>Jars</dc:subject>
+<dc:creator>egyarnetsky</dc:creator>
+<dc:date>2004-05-01T19:04:53-05:00</dc:date>
+</item>
+<item rdf:about="http://mudcatpottery.com/kiln/archives/000314.html">
+<title>Carved handled serving bowl 2</title>
+<link>http://mudcatpottery.com/kiln/archives/000314.html</link>
+<description>Sold * This sold quick, never got to actually measure it. I think it was about 10 inches wide....</description>
+<dc:subject>Bowls</dc:subject>
+<dc:creator>egyarnetsky</dc:creator>
+<dc:date>2004-04-24T01:05:46-05:00</dc:date>
+</item>
+<item rdf:about="http://mudcatpottery.com/kiln/archives/000313.html">
+<title>Carved handled serving bowl 1</title>
+<link>http://mudcatpottery.com/kiln/archives/000313.html</link>
+<description>Sold * About 10&quot; wide. Sold before I could get it measured....</description>
+<dc:subject>Bowls</dc:subject>
+<dc:creator>egyarnetsky</dc:creator>
+<dc:date>2004-04-24T01:04:56-05:00</dc:date>
+</item>
+<item rdf:about="http://mudcatpottery.com/kiln/archives/000300.html">
+<title>box vase 4</title>
+<link>http://mudcatpottery.com/kiln/archives/000300.html</link>
+<description>sold * 11&quot; box vase made of rolled and incised slabs...</description>
+<dc:subject>Hand-built vases</dc:subject>
+<dc:creator>egyarnetsky</dc:creator>
+<dc:date>2004-04-11T23:46:01-05:00</dc:date>
+</item>
+<item rdf:about="http://mudcatpottery.com/kiln/archives/000299.html">
+<title>box vase 3</title>
+<link>http://mudcatpottery.com/kiln/archives/000299.html</link>
+<description>$48 * 11&quot; box vase made of rolled and incised slabs...</description>
+<dc:subject>Hand-built vases</dc:subject>
+<dc:creator>egyarnetsky</dc:creator>
+<dc:date>2004-04-11T23:43:41-05:00</dc:date>
+</item>
+<item rdf:about="http://mudcatpottery.com/kiln/archives/000298.html">
+<title>box vase 2</title>
+<link>http://mudcatpottery.com/kiln/archives/000298.html</link>
+<description>$48 * 11&quot; box vase made of rolled and incised slabs...</description>
+<dc:subject>Hand-built vases</dc:subject>
+<dc:creator>egyarnetsky</dc:creator>
+<dc:date>2004-04-11T17:49:37-05:00</dc:date>
+</item>
+<item rdf:about="http://mudcatpottery.com/kiln/archives/000297.html">
+<title>box vase 1</title>
+<link>http://mudcatpottery.com/kiln/archives/000297.html</link>
+<description>$48 * 11&quot; box vase made of rolled and incised slabs...</description>
+<dc:subject>Hand-built vases</dc:subject>
+<dc:creator>egyarnetsky</dc:creator>
+<dc:date>2004-04-11T17:41:05-05:00</dc:date>
+</item>
+<item rdf:about="http://mudcatpottery.com/kiln/archives/000296.html">
+<title>carved box</title>
+<link>http://mudcatpottery.com/kiln/archives/000296.html</link>
+<description><![CDATA[<img alt="box1.jpg" src="http://mudcatpottery.ontheriversedge.com/kiln/images/box1.jpg" width="225" height="300" border="1" />]]></description>
+<dc:subject>Hand-built boxes</dc:subject>
+<dc:creator>egyarnetsky</dc:creator>
+<dc:date>2004-04-11T17:12:38-05:00</dc:date>
+</item>
+<item rdf:about="http://mudcatpottery.com/kiln/archives/000309.html">
+<title>mini jar 1</title>
+<link>http://mudcatpottery.com/kiln/archives/000309.html</link>
+<description>sold * 5&quot; tall....</description>
+<dc:subject>Jars</dc:subject>
+<dc:creator>egyarnetsky</dc:creator>
+<dc:date>2004-04-01T16:31:43-05:00</dc:date>
+</item>
+<item rdf:about="http://mudcatpottery.com/kiln/archives/000308.html">
+<title>pitcher 2</title>
+<link>http://mudcatpottery.com/kiln/archives/000308.html</link>
+<description>$38 * 10&quot; tall....</description>
+<dc:subject>pitchers</dc:subject>
+<dc:creator>egyarnetsky</dc:creator>
+<dc:date>2004-04-01T16:30:44-05:00</dc:date>
+</item>
+<item rdf:about="http://mudcatpottery.com/kiln/archives/000307.html">
+<title>pitcher 1</title>
+<link>http://mudcatpottery.com/kiln/archives/000307.html</link>
+<description>$38 * 10&quot; tall....</description>
+<dc:subject>pitchers</dc:subject>
+<dc:creator>egyarnetsky</dc:creator>
+<dc:date>2004-04-01T16:30:00-05:00</dc:date>
+</item>
+<item rdf:about="http://mudcatpottery.com/kiln/archives/000302.html">
+<title>Sculpture 6</title>
+<link>http://mudcatpottery.com/kiln/archives/000302.html</link>
+<description>18&quot; sculpture made of rolled and incised slabs...</description>
+<dc:subject>Sculpture</dc:subject>
+<dc:creator>egyarnetsky</dc:creator>
+<dc:date>2004-02-02T23:52:21-05:00</dc:date>
+</item>
+<item rdf:about="http://mudcatpottery.com/kiln/archives/000301.html">
+<title>Sculpture 5</title>
+<link>http://mudcatpottery.com/kiln/archives/000301.html</link>
+<description>18&quot; sculpture made of rolled and incised slabs...</description>
+<dc:subject>Sculpture</dc:subject>
+<dc:creator>egyarnetsky</dc:creator>
+<dc:date>2004-02-02T23:49:56-05:00</dc:date>
+</item>
+
+
+</rdf:RDF>

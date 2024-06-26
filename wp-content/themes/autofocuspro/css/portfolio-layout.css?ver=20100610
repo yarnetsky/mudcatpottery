@@ -1,0 +1,50 @@
+/*   
+AutoFocus Pro - Portfolio Layout.
+*/
+
+.blog #content {margin-top:0px;padding:0;}
+.blog #content .hentry {width:188px;height:188px;overflow:hidden;float:left;margin:0 16px 16px 0;padding:0;clear:none;position:relative;}
+.blog #content .hentry.p4 {margin-right:0;}
+.blog #content .hentry.p8 {margin-right:0;}
+.blog #content .hentry.p12 {margin-right:0;}
+.blog #content .hentry.p16 {margin-right:0;}
+.blog #content .hentry.p20 {margin-right:0;}
+.blog #content .hentry.p24 {margin-right:0;}
+.blog #content .entry-title {position:relative;z-index:12;margin:0;padding:0;font-size:18px;letter-spacing:0;line-height:22px;width:100%;}
+.blog #content .entry-title a {display:table-cell;width:100%;padding:16px 16px 0;}
+.blog #content .entry-title .comments-link {font-size:16px;line-height:33px;float:left;}
+.blog #content .entry-title .comments-link a {display:inline-block;padding:16px 0 0 16px;}
+.blog #content .page-link {font-size:16px;display:none;}
+.blog #content .entry-meta {position:absolute;z-index:11;top:0;left:0;margin:0;padding:16px 0 0 16px;width:154px;float:none;border:none;}
+.blog #content .entry-hover-on {z-index:12;margin:0;font-size:18px;letter-spacing:-1px;line-height:22px;width:100%;}
+.blog #content .entry-meta .entry-title,
+.blog #content .entry-meta .entry-date {font-size:18px;line-height:22px;letter-spacing:-1px;text-decoration:none;border:none;font-family: "Hoefler Text", "Garamond", Times New Roman, Times, serif;}
+.blog #content .entry-meta a {padding:0 16px 0 0;display:block;width:100%;}
+.blog #content .post-image-container {display:block;top:0;left:0;position:absolute;z-index:10;}
+.blog #content .hentry .post-image-container img {display:none;}
+.blog #content .entry-content {display:none;line-height:22px;padding:11px 0;margin:0;position:relative;z-index:1;left:0;width:100%;}
+.blog #content .entry-content p {margin:0;padding:0 16px 0;line-height:16.5px;visibility:hidden;display:none;}
+.blog #content .entry-content a {display:inline-block;line-height:16.5px;font-style:italic;font-family: "Hoefler Text", "Garamond", Times New Roman, Times, serif;height:inherit;width:inherit;}
+.blog #content .entry-content,
+.blog #content .entry-utility {position:absolute;top:0;right:0;margin:0;width:35px;z-index:16}
+.blog #content .edit-link a {margin-left:-8px;width:35px;}
+.blog #content .hoverbg {display:block;width:100%;height:100%;position:absolute;top:0;left:0;z-index:8;}
+
+/* Featured Area Styles */
+.blog #content #featured-slider-container {margin-bottom:16px;}
+.blog #content #featured-slider-container .hentry.sticky {width:800px;height:300px;margin:0;}
+.blog #content #featured-slider-container .entry-date,
+.blog #content #featured-slider-container .entry-title {font-size:24px;letter-spacing:-1px;font-style:italic;line-height:33px;width:392px;}
+.blog #content #featured-slider-container .entry-title a {display: block;width: 392px;padding: 16px 16px 0;}
+.blog #content #featured-slider-container li img {position:absolute;top:0;left:0;padding:0;margin:0;display:none;}
+.blog #content #sticky-feature {width:800px;height:300px;margin:0 0 16px;display:block;}
+.blog #content #sticky-feature .hentry.sticky {width:800px;height:300px;margin:0;}
+.blog #content #sticky-feature .entry-meta,
+.blog #content #sticky-feature .entry-title,
+.blog #content #sticky-feature .entry-date {font-size:24px;line-height:33px;}
+
+/* Hide JS onload CSS */
+.blog #content .entry-title,
+.blog #content .entry-meta,
+.blog #content .entry-content {margin-left:-9999px;}
+
